@@ -20,3 +20,19 @@ Code in this folder are assignments that I have comoleted in some Coursera cours
 - plot training and validation accuracies
 - multiclass classifier for the Sign Language MNIST dataset
 - parse raw CSV file with pixel info
+
+
+#### Natural_Language_Processing_w_TensorFlow
+- **LSTMs**
+- **Tokenizer**
+- **pad_sequences**
+- word embeddings
+- Predicting a word
+- IMDB dataset, pretokenized
+
+#### Sequences_Time_Series_and_Prediction
+- **Recurrent Neural Networks**
+- LSTM
+- Deep neural network 
+- Preparing features and labels
+- time window
